@@ -76,7 +76,7 @@ const Header = () => {
         <div className="flex items-center gap-1">
           <Link to="/" className="flex items-center gap-2">
             <ChefHat className="h-8 w-8 text-recipe-primary dark:text-recipe-accent" />
-            <span className="text-xl font-bold text-gray-900 dark:text-gray-100">Recipe Genesis</span>
+            <span className="text-xl font-bold text-gray-900 dark:text-gray-100">AI Recipe Generator</span>
           </Link>
         </div>
         
